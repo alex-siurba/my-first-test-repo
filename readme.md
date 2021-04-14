@@ -1,1 +1,1 @@
-#My first Git lesson
+Changing from clone
